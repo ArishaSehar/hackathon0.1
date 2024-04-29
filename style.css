@@ -15,7 +15,9 @@ body{
 .nav-link:hover{
     text-decoration: underline;
 }
-
+#navbarNavAltMarkup{
+padding-left: 30px;
+}
 
 
 .container-fluid{
